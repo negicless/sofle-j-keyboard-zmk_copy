@@ -242,7 +242,7 @@ layers:
   - {t: /, s: '?'}
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - _
   - '{'
   - '}'
   - {t: '[', s: '{'}
