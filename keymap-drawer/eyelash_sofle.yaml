@@ -63,7 +63,7 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-return$$', h: '3'}
   - '2'
-  - $$mdi:apple-keyboard-shift$$
+  - CONTEXT MENU
   - $$mdi:backspace-reverse-outline$$
   layer1:
   - {t: '`', s: '~'}
