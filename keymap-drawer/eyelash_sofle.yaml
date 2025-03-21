@@ -197,51 +197,51 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   '3':
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - PgUp
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - F11
   - {t: '$$mdi:transfer$$', type: trans}
   - '1'
   - '2'
   - '3'
   - '4'
   - '5'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - PgDn
   - '6'
   - '7'
   - '8'
   - '9'
   - '0'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - '!'
   - '@'
   - '#'
   - $
   - '%'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - END
   - ^
   - '&'
   - '*'
   - (
   - )
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '"'
   - {t: '$$mdi:transfer$$', type: trans}
   - +
   - {t: '-', s: _}
   - '*'
   - {t: /, s: '?'}
   - {t: '=', s: +}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - END
   - _
   - '{'
   - '}'
