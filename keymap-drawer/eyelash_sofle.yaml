@@ -54,11 +54,11 @@ layers:
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-shift$$'}
   - $$mdi:volume-off$$
-  - {t: '$$mdi:apple-keyboard-caps$$', h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: '$$mdi:apple-keyboard-caps$$', h: '3'}
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:keyboard-space$$', h: layer1}
-  - {t: '$$mdi:keyboard-space$$', h: '3'}
+  - $$mdi:keyboard-space$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: '3'}
@@ -249,11 +249,11 @@ layers:
   - {t: ']', s: '}'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held alternate}
